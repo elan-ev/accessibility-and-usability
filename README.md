@@ -25,3 +25,5 @@ If you want to contribute:
 - Please make sure the author allows making the report public
 - Please make sure to provide proper author information
 - Please make sure to not name users collaborating in tests or specifically ask them for permission to make their names public.
+
+The reports should preferably be in PDF or Markdown format.
